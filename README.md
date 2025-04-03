@@ -1,5 +1,5 @@
 # Footy-Guess
-## Football Player Guessing Game
+- Football Player Guessing Game
 A React.js-based game where players guess the names of football players based on given clues. The game provides feedback on each guess and tracks scores.
 
 ## 🎮 Features
