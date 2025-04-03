@@ -53,5 +53,4 @@ function CoverScreen({ onGameStart }) {
     </>
   )
 }
-
 export default CoverScreen;
