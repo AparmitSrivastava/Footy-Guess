@@ -8,7 +8,7 @@ const options = {
 export const getPlayersByClub = async(id_club) => {
 
     try {
-        const url = `https://transfermarkt-api-sigma.vercel.app/clubs/${id_club}/players`;
+        const url =`https://transfermarkt-api-sigma.vercel.app/clubs/${id_club}/players`;
     	const response = await fetch(url, options);
 
         if (!response.ok) {
