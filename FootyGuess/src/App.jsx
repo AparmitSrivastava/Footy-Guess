@@ -61,7 +61,7 @@ function App() {
 
 
   return (
-    <div className="h-screen bg-[url(bg.jpg)]  bg-cover bg-center  flex">
+    <div className="h-screen bg-[url(https://github.com/AparmitSrivastava/Footy-Guess/blob/main/FootyGuess/bg.jpg?raw=true)]  bg-cover bg-center  flex">
       <div className="w-full max-w-lg flex min-h-3/5 max-h-[90%] mx-auto my-auto rounded-3xl shadow-lg">
         {
           gameState.step == 0 && 
